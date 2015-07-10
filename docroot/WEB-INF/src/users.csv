@@ -1,0 +1,3 @@
+username;email;firstName;lastName;password;male
+paul;paul@paul.com;Paul;Paul;paul;true
+ann;ann@ann.com;Ann;Ann;ann;false
