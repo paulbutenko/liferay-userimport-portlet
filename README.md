@@ -1,4 +1,6 @@
 # Liferay user import portlet
+Portlet for importing user to Liferay from csv file
+
 
 As a source of user data for this application we will use CSV file with next format:
 	
